@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digital-business-cards/static/css/main.6149ec4f.css",
+    "main.js": "/digital-business-cards/static/js/main.65114ae6.js",
+    "static/media/headshot.jpg": "/digital-business-cards/static/media/headshot.e09448baa6a2dbf40786.jpg",
+    "static/media/li-square.svg": "/digital-business-cards/static/media/li-square.d4065588bf27c3505ace64131ee05f32.svg",
+    "static/media/gh-square.svg": "/digital-business-cards/static/media/gh-square.bdd05eb0a44d2eff01dd26eaa0b307bb.svg",
+    "static/media/li-lt-square.svg": "/digital-business-cards/static/media/li-lt-square.b5e6439c837a47db725557ca395a0b82.svg",
+    "static/media/fb-lt-square.svg": "/digital-business-cards/static/media/fb-lt-square.4d8fa9c8b6bacbc2d01dc9b9222c275b.svg",
+    "static/media/li-dk-square.svg": "/digital-business-cards/static/media/li-dk-square.f2f7d420f8ec14109e65abad03b5f32c.svg",
+    "index.html": "/digital-business-cards/index.html",
+    "static/media/email.svg": "/digital-business-cards/static/media/email.dba533a0d3bd121023c13a25036858ed.svg",
+    "static/media/fb-square.svg": "/digital-business-cards/static/media/fb-square.72e5206145c3fa1edce96f48d492db0b.svg",
+    "main.6149ec4f.css.map": "/digital-business-cards/static/css/main.6149ec4f.css.map",
+    "main.65114ae6.js.map": "/digital-business-cards/static/js/main.65114ae6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6149ec4f.css",
+    "static/js/main.65114ae6.js"
+  ]
+}

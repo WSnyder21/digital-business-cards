@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30" width="30px" height="30px">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="30" height="30" style="fill:rgb(0%,0%,0%);fill-opacity:0.05;stroke:none;"/>
+  </g>
+</mask>
+<image id="image1899191" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAA4klEQVRIie3VMUoDQRSH8Z9mUVJEbFRsQjAXMFUOIHgOsbfTQ2hnb2uuYOMlvEFIk8IijRAQcS2yYBzWEc1uxDgfDAv/t7xvZh7skkj8R5poLVt6hme84nJZ0mYhzefWQVXN1yO1DI0g26xK/BVX3k97W2XjLFLbQw9DbGAXx7gI3hugjw4muCuyl59uquPjfHOclGRl677Y7KfEZrwIRzj/DTGc1i0e4NDseufpYqtO8Q0ecF1S265TnBfPp+/0r3PGUZJ49cVrkVqGdpA9YifIxpia/Ub3g9rIAt/sROJv8QaM7yrVWHsFhAAAAABJRU5ErkJggg=="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="30" height="30" style="fill:rgb(0%,0%,0%);fill-opacity:0.07;stroke:none;"/>
+  </g>
+</mask>
+<image id="image1899194" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAA3ElEQVRIie3TwUpCQRTG8V/hQoQ2LdoG4hNYj9Ab9AAR+EBufIaWroN27YLInSD0CkUUikLeFo54Eb1X8s5dzR+G+eYcON8ZzgyJRKIm2hjiEd06jYfIwnqtsvBpSb61R0fnCiOMcVNl4ZOS/D0ugp6jvyM2CE1d4gNPYT+KN5sZf+6ITfGSO2f4wm1s431rhk5R4bLHdQgLvGOZizXRi2mcWc23g7ut3HVM4x88B/1gdfs15zGNf7f0NHcu/DFVzPhfJOPaaJTkxzYP6LsgtmaEs6AnR3eXSCQO4Q83fDuDlM8tMQAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1899187">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 26.25 23.125 C 26.25 24.851562 24.851562 26.25 23.125 26.25 L 6.875 26.25 C 5.148438 26.25 3.75 24.851562 3.75 23.125 L 3.75 6.875 C 3.75 5.148438 5.148438 3.75 6.875 3.75 L 23.125 3.75 C 24.851562 3.75 26.25 5.148438 26.25 6.875 Z M 26.25 23.125 "/>
+<use xlink:href="#image1899191" mask="url(#mask0)"/>
+<use xlink:href="#image1899194" mask="url(#mask1)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(31.37255%,57.647061%,88.627452%);fill-opacity:1;" d="M 7.5 11.875 L 10.625 11.875 L 10.625 22.5 L 7.5 22.5 Z M 9.054688 10.625 L 9.035156 10.625 C 8.101562 10.625 7.5 9.929688 7.5 9.0625 C 7.5 8.175781 8.121094 7.5 9.070312 7.5 C 10.023438 7.5 10.609375 8.175781 10.625 9.0625 C 10.625 9.929688 10.023438 10.625 9.054688 10.625 Z M 22.5 22.5 L 19.375 22.5 L 19.375 16.8125 C 19.375 15.4375 18.609375 14.5 17.378906 14.5 C 16.441406 14.5 15.933594 15.132812 15.6875 15.746094 C 15.597656 15.964844 15.625 16.570312 15.625 16.875 L 15.625 22.5 L 12.5 22.5 L 12.5 11.875 L 15.625 11.875 L 15.625 13.511719 C 16.074219 12.8125 16.78125 11.875 18.585938 11.875 C 20.824219 11.875 22.5 13.28125 22.5 16.421875 Z M 22.5 22.5 "/>
+</g>
+</svg>
