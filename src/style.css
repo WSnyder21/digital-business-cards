@@ -1,0 +1,192 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.App {
+    display: grid;
+    grid-template-columns: repeat(2, 550px);
+    grid-auto-rows: 900px;
+    background-color: #1C1C1C;
+    grid-gap: 40px;
+    justify-content: center;
+    padding: 44px 0px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #23252C;
+}
+
+.card-1,
+.card-2,
+.card-3,
+.card-4 {
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-img {
+    margin-bottom: 0;
+    border-width: 0;
+}
+
+.profPic {
+    width: 300px;
+    height: 400px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+    height: 450px;
+    width: 300px;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 0 0 10px 10px;
+}
+
+.card-info>h1 {
+    font-size: 25px;
+    background-color: #F5F5F5;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.card-info>h2 {
+    background-color: #F5F5F5;
+    color: #F47D27;
+    font-size: 13px;
+    margin: 6px 8px 8px;
+}
+
+.card-info>h3 {
+    color: #4A4E74;
+    background-color: #F5F5F5;
+    margin-top: 0;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+.card-btns>a>button {
+    position: relative;
+    margin: 10px;
+    padding: 10px 20px 10px 40px;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.card-1 .card-info,
+.card-2 .card-info {
+    background-color: #1A1B21;
+}
+
+.card-1 .card-info>h1,
+.card-2 .card-info>h1 {
+    background-color: #1A1B21;
+    color: white
+}
+
+.card-1 .card-info>h2,
+.card-2 .card-info>h2 {
+    background-color: #1A1B21;
+}
+
+.card-1 .card-info>h3,
+.card-2 .card-info>h3 {
+    background-color: #1A1B21;
+    color: white;
+}
+
+.card-1 .card-info .card-btns>a>button>img,
+.card-3 .card-info .card-btns>a>button>img {
+    position: absolute;
+    width: 15px;
+    top: 10px;
+    left: 15px;
+}
+
+.card-2 .card-info .card-btns>a>button>img,
+.card-4 .card-info .card-btns>a>button>img {
+    position: absolute;
+    width: 15px;
+    top: 10px;
+    left: 95px;
+}
+
+.card-1 .card-info .about,
+.card-1 .card-info .interests,
+.card-2 .card-info .about,
+.card-2 .card-info .interests {
+    background-color: #1A1B21;
+    color: white;
+}
+
+.card-2 .card-info .card-btns>a>button,
+.card-4 .card-info .card-btns>a>button {
+    width: 250px
+}
+
+.card-2 .card-info .footer>a>img,
+.card-4 .card-info .footer>a>img {
+    width: 30px;
+    margin-left: 50px;
+}
+
+.card-1 .card-info .footer,
+.card-2 .card-info .footer {
+    background-color: #161619;
+}
+
+.btn-Email {
+    color: black;
+    background-color: #fff;
+}
+
+.btn-LinkedIn {
+    color: white;
+    background-color: #297FE5;
+}
+
+.btn-Email>img {
+    width: 15px;
+    margin-right: 8px;
+}
+
+.btn-LinkedIn>img {
+    width: 15px;
+    margin: 0 8px 0 0;
+    /* margin-top: 5px; */
+}
+
+.about,
+.interests {
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: #F5F5F5;
+    color: #23252C;
+    font-size: 12px;
+}
+
+.footer {
+    background-color: #D5D4D8;
+    height: 60px;
+    margin-top: 35px;
+    padding-top: 10px;
+    width: 300px;
+    border-radius: 0 0 10px 10px;
+    padding-left: 10px;
+}
+
+.footer>a>img {
+    width: 30px;
+    margin-left: 75px;
+}
